@@ -9,8 +9,6 @@ import Error from './pages/Error'
 //import navbar 
 import Navbar from './components/Navbar' 
 
-import CocktailList from './components/CocktailList'
-import SearchForm from './components/SearchForm'
 
 export default function App() {
   return <Router>
